@@ -7,30 +7,36 @@ namespace Arrays
         static void Main(string[] args)
         {
             //Array Demo
-            // var newArray = new MyArray();
-            // newArray.Push("Hello");
-            // newArray.Push("Hi");
-            // newArray.Push("Me");
-            // Console.WriteLine(newArray.ToString());
-            // newArray.Pop();
-            // Console.WriteLine(newArray.ToString());
-            // newArray.Delete(0);
-            // Console.WriteLine(newArray.ToString());
+            var newArray = new MyArray();
+            newArray.Push("Hello");
+            newArray.Push("Hi");
+            newArray.Push("Me");
+            Console.WriteLine(newArray.ToString());
+            newArray.Pop();
+            Console.WriteLine(newArray.ToString());
+            newArray.Delete(0);
+            Console.WriteLine(newArray.ToString());
 
-            // var resultOne = ReverseOne("Hi my name is Gabriel");
-            // Console.WriteLine(resultOne);
+            var resultOne = ReverseOne("Hi my name is Gabriel");
+            Console.WriteLine($"Reverse String Method One: {resultOne}");
 
-            // var resultTwo = ReverseTwo("Hi my name is Gabriel");
-            // Console.WriteLine(resultOne);
+            var resultTwo = ReverseTwo("Hi my name is Gabriel");
+            Console.WriteLine($"Reverse String Method Two: {string.Join(',', resultTwo)}");
 
-            // var mergeSortedArray = MergeSortedArraysOne(new int[] { 0, 3 }, new int[] { 2, 4, 9 });
+            var mergeSortedArray = MergeSortedArraysOne(new int[] { 0, 3 }, new int[] { 2, 4, 9 });
+            Console.WriteLine($"Merge sorted arrays Method One: {string.Join(',', mergeSortedArray)}");
 
-            // var isAnagram = IsAnagram("Dormitory", "Dirty room");
-            // var isAnagram2 = IsAnagram("Time and tide wait for no man", "Notified madman into water");
+            var isAnagram = IsAnagram("Dormitory", "Dirty room");
+            Console.WriteLine($"Is anagram Method One: {isAnagram}");
 
-            // var reversedWord = WordFlipper("This is an example");
+            var isAnagram2 = IsAnagram("Time and tide wait for no man", "Notified madman into water");
+            Console.WriteLine($"Is anagram Method Two: {isAnagram2}");
+
+            var reversedWord = WordFlipper("This is an example");
+            Console.WriteLine($"Is anagram Method One: {reversedWord}");
 
             var hammingDistance = HammingDistance("ACTTGACCGGG", "GATCCGGTACA");
+            Console.WriteLine($"Hamming distance: {hammingDistance}");
         }
 
         public static string ReverseOne(string input)

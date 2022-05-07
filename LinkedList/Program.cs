@@ -20,10 +20,7 @@ namespace LinkedList
             linkedList.Traverse();
             var valuePopped = linkedList.Pop();
             Console.WriteLine(valuePopped);
-            // linkedList.Traverse();
-            // valuePopped = linkedList.Pop(6);
-            // Console.WriteLine(valuePopped);
-            // linkedList.Traverse();
+
             linkedList.Insert(12, 12);
             linkedList.Traverse();
             var newlist = linkedList.Reverse();

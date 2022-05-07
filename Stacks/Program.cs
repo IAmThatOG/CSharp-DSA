@@ -6,23 +6,23 @@ namespace Stacks
     {
         static void Main(string[] args)
         {
-            // var stack = new ArrayStack(2);
-            // Console.WriteLine(stack.ToString());
-            // stack.Push(1);
-            // stack.Push(2);
-            // stack.Push(3);
-            // Console.WriteLine(stack.ToString());
+            var stack = new ArrayStack(2);
+            Console.WriteLine(stack.ToString());
+            stack.Push(1);
+            stack.Push(2);
+            stack.Push(3);
+            Console.WriteLine(stack.ToString());
 
             // Given string of number 
-            // string s = "123";
+            string s = "123";
 
             // Function call 
-            // convert(s);
+            convert(s);
 
-            // var reversedString = ReverseAString("abc");
-            // Console.WriteLine(reversedString);
+            var reversedString = ReverseAString("abc");
+            Console.WriteLine(reversedString);
 
-            // Console.WriteLine(isPrime(11));
+            Console.WriteLine(isPrime(11));
 
             Console.WriteLine(string.Join(",", GetFib(11)));
             //0, 1, 1, 2, 3, 5, 8, 13
