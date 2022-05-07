@@ -1,0 +1,15 @@
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/bin/Debug/net5.0/LinkedList.deps.json
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/bin/Debug/net5.0/LinkedList.runtimeconfig.json
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/bin/Debug/net5.0/LinkedList.runtimeconfig.dev.json
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/bin/Debug/net5.0/LinkedList.dll
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/bin/Debug/net5.0/ref/LinkedList.dll
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/bin/Debug/net5.0/LinkedList.pdb
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.csprojAssemblyReference.cache
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfoInputs.cache
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfo.cs
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.dll
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/obj/Debug/net5.0/ref/LinkedList.dll
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.pdb
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/LinkedList/obj/Debug/net5.0/LinkedList.genruntimeconfig.cache

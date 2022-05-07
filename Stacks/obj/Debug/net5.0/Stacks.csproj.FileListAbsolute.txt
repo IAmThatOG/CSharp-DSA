@@ -1,0 +1,15 @@
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/bin/Debug/net5.0/Stacks.deps.json
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/bin/Debug/net5.0/Stacks.runtimeconfig.json
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/bin/Debug/net5.0/Stacks.runtimeconfig.dev.json
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/bin/Debug/net5.0/Stacks.dll
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/bin/Debug/net5.0/ref/Stacks.dll
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/bin/Debug/net5.0/Stacks.pdb
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/obj/Debug/net5.0/Stacks.csprojAssemblyReference.cache
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/obj/Debug/net5.0/Stacks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/obj/Debug/net5.0/Stacks.AssemblyInfoInputs.cache
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/obj/Debug/net5.0/Stacks.AssemblyInfo.cs
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/obj/Debug/net5.0/Stacks.csproj.CoreCompileInputs.cache
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/obj/Debug/net5.0/Stacks.dll
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/obj/Debug/net5.0/ref/Stacks.dll
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/obj/Debug/net5.0/Stacks.pdb
+/Users/iamthatog/Workspace/personal/dsa/csharp/DataStructures/Stacks/obj/Debug/net5.0/Stacks.genruntimeconfig.cache
